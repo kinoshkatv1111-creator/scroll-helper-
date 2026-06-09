@@ -1,0 +1,11 @@
+{
+    "display_name": "Scroll Down Button",
+    "loading_order": 999,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "kinoshkatv1111",
+    "version": "1.0.0",
+    "auto_update": false
+}
