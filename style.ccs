@@ -1,0 +1,23 @@
+.custom-scroll-down-button {
+    position: fixed !important;
+    right: 25px !important;
+    bottom: 95px !important;
+    width: 50px !important;
+    height: 50px !important;
+    background-color: #ff4500 !important; /* Яскравий помаранчевий колір, щоб точно помітити її */
+    color: #ffffff !important;
+    border: 2px solid #ffffff !important;
+    border-radius: 50% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-size: 24px !important;
+    cursor: pointer !important;
+    z-index: 999999 !important; /* Поверх абсолютно всього */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6) !important;
+}
+
+.custom-scroll-down-button:active {
+    transform: scale(0.9);
+    opacity: 0.8;
+}
