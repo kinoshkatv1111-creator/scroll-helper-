@@ -1,8 +1,0 @@
-{
-    "name": "Scroll Helper",
-    "id": "scroll-helper",
-    "version": "1.0.0",
-    "description": "Adds a floating button to scroll to the bottom of the chat",
-    "author": "You",
-    "entrypoint": "index.js"
-}
